@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = natacha_parnasse@yahoo.fr
+	name = natacha parnasse
